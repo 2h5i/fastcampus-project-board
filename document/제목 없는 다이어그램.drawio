@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T14:59:29.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tXj0dNvh6xl5EcX3FjsU" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T15:10:58.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CLnwgFQblS6SU32Rl4sR" version="20.2.3" type="github">
   <diagram id="Bz5ATsaenuPODiu2Aiwq" name="페이지-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,9 +108,9 @@
             <mxPoint x="260" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wVTX9UoR9pUi7eftC_m_-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="K9cWArxIHYqjQkeE0rk5-13">
+        <mxCell id="wVTX9UoR9pUi7eftC_m_-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K9cWArxIHYqjQkeE0rk5-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="240" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K9cWArxIHYqjQkeE0rk5-13" value="댓글 보기, 쓰기, 수정, 삭제" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">

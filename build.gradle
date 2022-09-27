@@ -25,7 +25,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-rest'
     implementation 'org.springframework.data:spring-data-rest-hal-explorer'
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
-    
+
     // querydsl 설정
     implementation 'com.querydsl:querydsl-jpa'
     implementation 'com.querydsl:querydsl-core'
@@ -39,6 +39,7 @@ dependencies {
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
 
     annotationProcessor 'org.projectlombok:lombok'
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
     // querydsl 설정
     annotationProcessor "com.querydsl:querydsl-apt:${dependencyManagement.importedProperties['querydsl.version']}:jpa"
     annotationProcessor 'jakarta.annotation:jakarta.annotation-api'
